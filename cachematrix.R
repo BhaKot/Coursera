@@ -1,4 +1,5 @@
 #updated to test github merge from slave to master
+#updated this from master to slave
 makeCacheMatrix <- function(x = matrix()) {
   m<-NULL
   set<-function(y){
